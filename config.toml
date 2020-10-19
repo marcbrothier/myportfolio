@@ -1,7 +1,7 @@
 # Site settings
-baseURL = "http://example.org/"
+baseURL = "https://marcbrothierportfolio.netlify.app/"
 languageCode = "en-us"
-title = "Forty"
+title = "Portfolio website for Marc"
 theme = "forty"
 
 # Enter your tracking code to enable Google Analytics
@@ -19,8 +19,8 @@ disqusShortname = ""
   # CSS class.
 
   # Provide your metadata here.
-  name = "Your name"
-  description = "Your description"
+  name = "Marc Brothier"
+  description = "Current student in the Masters in Financial analysis, at the London Business School"
 
   # Link custom assets relative to /static
   custom_css = []
@@ -32,13 +32,13 @@ disqusShortname = ""
 
   # 404 error customization
   [params.error404]
-    heading = "Page couldn't be found"
-    text = "Please visit [this page](/)"
+    heading = "Do not hesitate to contact me!"
+    text = "You can reach me at mbrothier@gmail.com or at +33769345828"
 
   # Navigation Section
   [params.navigation]
-    title = "Forty"
-    subtitle = "By HTML5 Up"
+    title = "Marc Brothier"
+    subtitle = "Portfolio"
     menu = "Menu"
     # Optional logo as brand stored in img/
     # logo = "logo.png"
@@ -48,16 +48,16 @@ disqusShortname = ""
       url = "#"
 
     [[params.navigation.links]]
-      name = "Blogs"
-      url = "blogs"
+      name = "Who am I?"
+      url = "whoami/whoami"
 
     [[params.navigation.links]]
-      name = "Generic Blog"
-      url = "blogs/ipsum"
+      name = "What do I enjoy reading?"
+      url = "whatdoienjoyreading/whatdoienjoyreading"
 
     [[params.navigation.links]]
-      name = "Elements"
-      url = "elements.html"
+      name = "Projects"
+      url = "projects"
 
     # Add custom links here by uncommenting code below. To remove links just delete
     # the [[params.navigation.links]] map associated with that link. Copy and paste
@@ -81,9 +81,9 @@ disqusShortname = ""
   [params.banner]
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
-    title = "Hi, my name is Forty"
-    subtitle = "A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP\nAND RELEASED UNDER THE CREATIVE COMMONS."
-    buttonText = "Get Started"
+    title = "Hi, my name is Marc"
+    subtitle = "Don't be shy and read more about me!"
+    buttonText = "Start here"
 
 
   # Tiles Section
@@ -172,50 +172,40 @@ disqusShortname = ""
     # by copying the corresponding map with frontmatter code.
     [[params.contact.email]]
     title = "Email"
-    email = "example@domain.com"
+    email = "mbrothier@gmail.com"
 
     [[params.contact.phone]]
-    title = "Phone"
-    phone = "(000) 000-0000 x1234"
+    title = "Private phone"
+    phone = "+33 7 69 34 58 28"
 
     [[params.contact.address]]
-    title = "Address"
-    street = "Street"
-    city = "City, ST 00000"
-    country = "Country"
+    title = "69 Grove Hall Court"
+    street = "Hall Roads"
+    city = "Lndon, NW8 9NY"
+    country = "United Kingdom"
 
   # Footer section
   [params.footer]
     enable = true
-    copyright = "Company Name"
-
-    # Uses font awesome icons
-    [[params.footer.social]]
-      icon = "fa-twitter"
-      url= "https://www.twitter.com"
-      label = "Twitter"
+    copyright = "Brothier & Associates"
 
     [[params.footer.social]]
       icon = "fa-facebook"
-      url= "https://www.facebook.com"
-      label = "Facebook"
+      url= "https://www.facebook.com/marc.brothier"
+      label = "Marc's Facebook"
 
     [[params.footer.social]]
       icon = "fa-instagram"
-      url= "https://www.instagram.com"
-      label = "Instagram"
+      url= "https://www.instagram.com/marcbrothier/?hl=fr"
+      label = "Marc's Instagram"
     
     [[params.footer.social]]
       icon = "fa-github"
-      url= "https://www.github.com"
-      label = "GitHub"
+      url= "https://github.com/marcbrothier"
+      label = "Marc's GitHub"
 
     [[params.footer.social]]
       icon = "fa-linkedin"
-      url= "https://www.linkedin.com"
-      label = "LinkedIn"
+      url= "https://www.linkedin.com/in/marcbrothier/"
+      label = "Marc's LinkedIn"
 
-    [[params.footer.quicklinks]]
-      text = "Design: "
-      url= "https://www.html5up.net"
-      alt = "HTML5 UP"
