@@ -3,7 +3,7 @@ categories:
 - ""
 - ""
 date: "2017-10-31T22:42:51-05:00"
-description: There is my CV - please take a look at it and let me know if you are interested by my profile!
+description: CV
 draft: false
 image: Marc Brothier CV.jpg
 keywords: ""

@@ -7,7 +7,7 @@ description: Data and Analytics.
 draft: false
 image: projects.jpg
 keywords: ""
-slug: R Studio
+slug: projects
 title: R Studio analysis - AirBnb
 ---
 In my MFA program, we had the great opportunity to analyse prices of AirBnb listings in Rio with my study group.
