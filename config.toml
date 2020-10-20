@@ -54,6 +54,14 @@ disqusShortname = ""
     [[params.navigation.links]]
       name = "What sports do I enjoy"
       url = "whatsports/whatsports"
+      
+     [[params.navigation.links]]
+      name = "My CV"
+      url = "mycv/mycv"
+      
+    [[params.navigation.links]]
+      name = "What do I read?"
+      url = "whatdoiread/whatdoiread"
 
     [[params.navigation.links]]
       name = "Projects"
@@ -95,19 +103,31 @@ disqusShortname = ""
       title = "Who am I?"
       subtitle = "My interest and origins"
       image = "limousin.jpg"
-      url = "whoami/whoami"
+      url = "img"
 
     [[params.tiles.showcase]]
       title = "What sports do I enjoy?"
-      subtitle = "Feugiat Amet Tempus"
+      subtitle = "A passion for triathlon"
       image = "triathlon.jpg"
-      url = "whatsports/whatsports"
+      url = "blogs/triathlon"
 
+    [[params.tiles.showcase]]
+      title = "My CV"
+      subtitle = "Passsionate about finance"
+      image = "Marc Brothier CV.jpg"
+      url = "blogs/marcbrothiercv"
+      
+    [[params.tiles.showcase]]
+      title = "What do I read??"
+      subtitle = "Curious by nature"
+      image = "reading.jpg"
+      url = "blogs/reading"
+      
     [[params.tiles.showcase]]
       title = "Projects?"
       subtitle = "My data and analytics projects"
       image = "projects.jpg"
-      url = "projects/projectss"
+      url = "img"
     # You can make more showcases by copy and pasting the code above
 
   [params.blog]
@@ -120,12 +140,17 @@ disqusShortname = ""
   # Section Type Two
   [params.two]
     enable = true
-    title = "Massa libero"
-    subtitle = """Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. 
-    Mauris aliquet magna magna sed nunc rhoncus pharetra. 
-    Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. 
-    Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero.
-    Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus."""
+    title = "Earth, our home"
+    image = "projects.jpg"
+    url = "img"
+    subtitle = """Timing is now. 
+    As a vegetarian and ecological concern people, I want to use these few lines to help you take into consideration why we should change our behaviors now and take car of our planet:
+    1. It’s the only home we have. We want our kids to have the same beautiful Earth we grew up with.
+    2. It grounds us. We all need a breath of fresh air every once in a while.
+    3. It provides us with food and water. Enough said.
+    4. It gives us a place to run and play. Where else would we toss a ball, push a swing, or splash in the pool?
+    5. It's a living entity. Let's take care of it like we take care of our kids. After all, it's the only planet we have.
+    """
     buttonText = "Get Started"
     url = "blogs"
 
