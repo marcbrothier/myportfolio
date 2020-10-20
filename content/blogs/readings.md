@@ -3,11 +3,11 @@ categories:
 - ""
 - ""
 date: "2017-10-31T22:42:51-05:00"
-description: As a curious person by nature, I like to read and to learn new things around the world that surrounds me.
+description: readings
 draft: false
 image: reading.jpg
 keywords: ""
-slug: What do I read?
+slug: readings
 title: What do I read?
 ---
 I like to read adventures, thriller, romance books, but in the most famous classic that I really enjoyed, my top list would be:

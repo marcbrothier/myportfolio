@@ -32,7 +32,7 @@ disqusShortname = ""
 
   # 404 error customization
   [params.error404]
-    heading = "Do not hesitate to contact me!"
+    heading = "Oups, something went wrong - Do not hesitate to contact me for further information!"
     text = "You can reach me at mbrothier@gmail.com or at +33769345828"
 
   # Navigation Section
