@@ -28,7 +28,7 @@ disqusShortname = ""
   favicon    = "favicon.ico"
 
   # Just a custom image variable, please define it in .md files for content.
-  image = ""
+  image = "home.jpg"
 
   # 404 error customization
   [params.error404]
@@ -89,7 +89,7 @@ disqusShortname = ""
   [params.banner]
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
-    title = "Hi, my name is Marc - a current MFa student at LBS"
+    title = "Hi, my name is Marc - a current MFA student at LBS"
     subtitle = "Don't be shy and read more about me!"
     buttonText = "Start here"
 
