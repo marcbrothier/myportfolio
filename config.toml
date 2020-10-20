@@ -127,7 +127,7 @@ disqusShortname = ""
       title = "Projects?"
       subtitle = "My data and analytics projects"
       image = "projects.jpg"
-      url = "img"
+      url = "blogs/projects"
     # You can make more showcases by copy and pasting the code above
 
   [params.blog]
@@ -151,6 +151,8 @@ disqusShortname = ""
     4. It gives us a place to run and play. Where else would we toss a ball, push a swing, or splash in the pool?
     5. It's a living entity. Let's take care of it like we take care of our kids. After all, it's the only planet we have.
     """
+    
+    
     buttonText = "Get Started"
     url = "blogs"
 
